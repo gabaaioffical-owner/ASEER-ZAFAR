@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Link to your XML Sitemap
+Sitemap: https://aseerzafar.com/sitemap.xml
