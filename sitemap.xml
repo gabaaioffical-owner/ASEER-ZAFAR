@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://aseer-zafar.vercel.app/</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    
+    <!-- Image 1 -->
+    <image:image>
+      <image:loc>https://i.ibb.co/zHWf8Dj4/file-000000002e087208be84b47498fa64fa.png</image:loc>
+      <image:caption>Aseer Zafar official portrait - young AI engineer and robotics inventor from Arifwala Pakistan</image:caption>
+      <image:title>Aseer Zafar - AI Engineer &amp; Robotics Inventor from Pakistan</image:title>
+    </image:image>
+    
+    <!-- Image 2 -->
+    <image:image>
+      <image:loc>https://i.ibb.co/5x2R7NCf/Screenshot-2026-0625-133451.png</image:loc>
+      <image:caption>Aseer Zafar coding AI and machine learning systems on laptop - Pakistan tech innovator</image:caption>
+      <image:title>Aseer Zafar coding session - AI development Pakistan</image:title>
+    </image:image>
+    
+    <!-- Image 3 -->
+    <image:image>
+      <image:loc>https://i.ibb.co/Jw3W9sLW/file-0000000087347208b917124125cbd9ac.png</image:loc>
+      <image:caption>Aseer Zafar in robotics lab building intelligent robots and autonomous systems - Arifwala Pakistan</image:caption>
+      <image:title>Aseer Zafar Robotics Lab - Building Intelligent Systems</image:title>
+    </image:image>
+    
+    <!-- Image 4 -->
+    <image:image>
+      <image:loc>https://i.ibb.co/Ng8FM04z/Screenshot-2026-0625-133034.png</image:loc>
+      <image:caption>Aseer Zafar developing AI dashboards and full-stack web applications - Pakistan tech developer</image:caption>
+      <image:title>Aseer Zafar Web Development &amp; AI Dashboards</image:title>
+    </image:image>
+    
+    <!-- Image 5 -->
+    <image:image>
+      <image:loc>https://i.ibb.co/Kcb4Cc2b/Screenshot-2026-0625-132756.png</image:loc>
+      <image:caption>Aseer Zafar AGI prototype and artificial general intelligence research - young scientist Pakistan</image:caption>
+      <image:title>Aseer Zafar AGI Prototype - Artificial General Intelligence Research</image:title>
+    </image:image>
+    
+    <!-- Image 6 -->
+    <image:image>
+      <image:loc>https://i.ibb.co/H8pJn1j/file-0000000015d47208b9b00fc09cfd08f5.png</image:loc>
+      <image:caption>Aseer Zafar innovation lab and technology workspace - inventor from Punjab Pakistan</image:caption>
+      <image:title>Aseer Zafar Innovation Lab - Technology Workspace</image:title>
+    </image:image>
+  </url>
+</urlset>
