@@ -1,0 +1,18 @@
+# robots.txt for Aseer Zafar Vercel Mirror
+# Host: aseer-zafar.vercel.app
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+# Allow Google Image Bot to crawl all images
+User-agent: Googlebot-Image
+Allow: /
+
+# Allow Bing Image Bot
+User-agent: Bingbot-Image
+Allow: /
+
+# Sitemap location
+Sitemap: https://aseer-zafar.vercel.app/sitemap.xml
