@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- ============================================= -->
+  <!-- PRIMARY SITE: Vercel (Priority 1.0)           -->
+  <!-- ============================================= -->
+  <url>
+    <loc>https://aseer-zafar.vercel.app/</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    
+    <!-- Image 1: Official Portrait -->
+    <image:image>
+      <image:loc>https://i.ibb.co/zHWf8Dj4/file-000000002e087208be84b47498fa64fa.png</image:loc>
+      <image:title>Aseer Zafar Official Portrait</image:title>
+      <image:caption>Official portrait of Aseer Zafar, young AI engineer and robotics inventor from Arifwala, Pakistan.</image:caption>
+    </image:image>
+    
+    <!-- Image 2: AI Coding -->
+    <image:image>
+      <image:loc>https://i.ibb.co/5x2R7NCf/Screenshot-2026-0625-133451.png</image:loc>
+      <image:title>Aseer Zafar AI Coding Session</image:title>
+      <image:caption>Aseer Zafar coding AI and machine learning systems on his laptop.</image:caption>
+    </image:image>
+    
+    <!-- Image 3: Robotics Lab -->
+    <image:image>
+      <image:loc>https://i.ibb.co/Jw3W9sLW/file-0000000087347208b917124125cbd9ac.png</image:loc>
+      <image:title>Aseer Zafar Robotics Lab</image:title>
+      <image:caption>Aseer Zafar in his robotics lab building intelligent robots and autonomous systems.</image:caption>
+    </image:image>
+    
+    <!-- Image 4: Web App Development -->
+    <image:image>
+      <image:loc>https://i.ibb.co/Ng8FM04z/Screenshot-2026-0625-133034.png</image:loc>
+      <image:title>Aseer Zafar Web Development</image:title>
+      <image:caption>Aseer Zafar developing AI dashboards and full-stack web applications.</image:caption>
+    </image:image>
+    
+    <!-- Image 5: AGI Prototype -->
+    <image:image>
+      <image:loc>https://i.ibb.co/Kcb4Cc2b/Screenshot-2026-0625-132756.png</image:loc>
+      <image:title>Aseer Zafar AGI Prototype</image:title>
+      <image:caption>Aseer Zafar working on Artificial General Intelligence (AGI) research and prototypes.</image:caption>
+    </image:image>
+    
+    <!-- Image 6: Innovation Lab -->
+    <image:image>
+      <image:loc>https://i.ibb.co/H8pJn1j/file-0000000015d47208b9b00fc09cfd08f5.png</image:loc>
+      <image:title>Aseer Zafar Innovation Lab</image:title>
+      <image:caption>Aseer Zafar innovation lab and technology workspace in Punjab, Pakistan.</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- ============================================= -->
+  <!-- MIRROR SITE: Netlify (Priority 0.8)           -->
+  <!-- ============================================= -->
+  <url>
+    <loc>https://aseer-zafar.netlify.app/</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    
+    <!-- Include same images so Google indexes them on Netlify too -->
+    <image:image>
+      <image:loc>https://i.ibb.co/zHWf8Dj4/file-000000002e087208be84b47498fa64fa.png</image:loc>
+      <image:title>Aseer Zafar Official Portrait</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://i.ibb.co/5x2R7NCf/Screenshot-2026-0625-133451.png</image:loc>
+      <image:title>Aseer Zafar AI Coding</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://i.ibb.co/Jw3W9sLW/file-0000000087347208b917124125cbd9ac.png</image:loc>
+      <image:title>Aseer Zafar Robotics</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://i.ibb.co/Ng8FM04z/Screenshot-2026-0625-133034.png</image:loc>
+      <image:title>Aseer Zafar Web Dev</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://i.ibb.co/Kcb4Cc2b/Screenshot-2026-0625-132756.png</image:loc>
+      <image:title>Aseer Zafar AGI</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://i.ibb.co/H8pJn1j/file-0000000015d47208b9b00fc09cfd08f5.png</image:loc>
+      <image:title>Aseer Zafar Innovation</image:title>
+    </image:image>
+  </url>
+  
+</urlset>
